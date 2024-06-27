@@ -1,0 +1,12 @@
+.Signup{
+    background: url("2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.a{
+    color: #bee4ed;
+}
+.ss:hover{
+    color:black;
+}

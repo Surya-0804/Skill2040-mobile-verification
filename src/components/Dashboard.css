@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour&display=swap');
+body{
+    background: url("https://images.unsplash.com/photo-1438302292089-1bfacb810383?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h2{
+    
+    font-size: 30px;
+    font-family: "Sixtyfour", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "BLED" 0,
+      "SCAN" 0;
+}

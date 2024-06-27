@@ -1,0 +1,72 @@
+.verify-container {
+    background-color: #6abf98;
+    display: grid;
+    margin-left: -161%;
+    align-items: center;
+    justify-content: center;
+    place-items: center;
+    height: 100vh;
+    width: 99.5vw;
+    background-attachment: cover;
+  
+  }
+  
+  .verify-form {
+    width: 30rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    border-radius: 8px;
+    background-color: #fff;
+    padding: 3rem;
+  }
+  
+  .welcome-title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .icon-container {
+    background-color: #fff;
+    color: #6abf98;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 1rem;
+    border-radius: 50%;
+  }
+  
+  .form-label {
+    font-weight: bold;
+    font-size: 1.2rem;
+    /* margin-left: 1.6rem; */
+    color: #333;
+  }
+  
+  .otp-input {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 1rem;
+    padding-left: 2.75rem;
+    font-size: 1.2rem;
+  }
+  
+  .verify-button {
+    background-color: #6abf98;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 0.2rem ;
+    font-size: 1.3rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .spinner {
+    margin-top: 1px;
+    margin-right: 5px;
+  }
+  
